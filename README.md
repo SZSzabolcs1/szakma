@@ -84,19 +84,6 @@ Lekérdezések:
 - CPU / RAM usage
 - device status monitoring
 
----
-
-## Mappa struktúra
-
-```bash
-📁 project-root
-│
-├── README.md
-├── SzSz_PR_Dokumentáció.pdf
-├── SzSz_PR_projekt.pkt
-├── dok_nem_leadni.docx
-└── video_demonstration.mp4
-```
 
 ---
 
@@ -172,8 +159,8 @@ Elvégzett tesztek:
 
 ## Készítők
 
-- **Pintyák Róbert**
 - **Szécsényi Szabolcs**
+- **Pintyák Róbert**
 
 Debreceni SZC Mechwart András Gépipari és Informatikai Technikum  
 2025
